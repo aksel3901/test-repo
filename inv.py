@@ -25,3 +25,4 @@ inventory = addToInventory(inventory, dragonLoot)
 displayInventory(inventory)
 
 print("This is for example purpooses, not real code")
+print("This is for example purpooses, as well")
