@@ -23,3 +23,5 @@ inventory = {'gold coin': 42, 'rope': 1}
 dragonLoot = ['gold coin', 'dagger', 'gold coin', 'ruby', 'ruby']
 inventory = addToInventory(inventory, dragonLoot)
 displayInventory(inventory)
+
+print("This is for example purpooses, not real code")
